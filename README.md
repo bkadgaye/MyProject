@@ -1,4 +1,4 @@
 # MyProject
 
 Steps:
-git pull 
+git pull https://github.com/bkadgaye/MyProject.git
