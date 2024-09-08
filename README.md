@@ -1,4 +1,5 @@
 # MyProject
 
 Steps:
-git pull https://github.com/bkadgaye/MyProject.git
+git clone https://github.com/bkadgaye/MyProject.git
+git pull origin main
